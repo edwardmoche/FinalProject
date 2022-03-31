@@ -9,7 +9,7 @@ using PaymentDetail.Data;
 namespace PaymentDetail.Migrations
 {
     [DbContext(typeof(ApiDbContext))]
-    [Migration("20220330090448_Initial Online Migrations")]
+    [Migration("20220331132730_Initial Online Migrations")]
     partial class InitialOnlineMigrations
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
